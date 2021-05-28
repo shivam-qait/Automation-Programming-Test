@@ -1,7 +1,7 @@
 baseURL: "http://automationpractice.com/"
 
 credentials:
-  username: "demotest28Apr01@yopmail.com"
+  username: "demotest29Apr02@yopmail.com"
   password: "Test@1234"
 
 myAccountPage:
@@ -11,7 +11,7 @@ myAccountPage:
   title: "My account - My Store"
   successAlert: "Your personal information has been successfully updated."
   firstName: "Testdemo"
-  lastName: "Demo"
+  lastName: "demo"
 
 headerMenuItem:
   tshirts: "T-shirts"
@@ -30,4 +30,4 @@ orderDetails:
   paymentOption:
     paymentByCheck: Payment by check 
   
-deliveryAddress: "DELIVERY ADDRESS (MY ADDRESS)\ntest demo\nTest Company\n100, S. Main Street, Test Company\nLOS ANGELES, California 90012\nUnited States\n9876543210"
+deliveryAddress: "DELIVERY ADDRESS (MY ADDRESS)\ntest demo\nTest Company\n100 S. Main Street, Test Company\nLOS ANGELES, California 90012\nUnited States\n9876543210"

@@ -26,12 +26,7 @@ public class orderHistoryPageActions extends BaseWebComponent{
 	}
 	
 	public String verifyDeliveryAddressIsDisplayedCorrectly() {
-		logMessage(getText(element("txt_DeliveryAddress")));
 		return getText(element("txt_DeliveryAddress")).trim();
 	}
-	
-//	public boolean verifyUserIsOnOrderHistoryPage() {
-//		return element("heading_OrderHistory").isDisplayed();
-//	}
 	
 }
