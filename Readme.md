@@ -26,3 +26,6 @@ Please follow the instructions to execute the tests on local machine:
 The Test Execution Results will be stored as HTML & JSON file in the following directory once the test has completed.
  *  ./target/cucmber/report.html
  *  ./target/cucmber/report.json
+
+#### Execution Report:
+*  Execution Report Screenshot is attached in the repo with name "ExecutionReport.PNG"
