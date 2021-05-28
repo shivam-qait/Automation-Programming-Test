@@ -1,0 +1,2 @@
+checbox_TermOfService	 css	   .checker
+btn_ProceedToCheckout    css       button[name = 'processCarrier']

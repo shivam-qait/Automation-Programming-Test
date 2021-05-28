@@ -1,0 +1,4 @@
+btn_GenPaymentOption 	xpath		//p[@class = 'payment_module']//a[@title = '${paymentOption}']
+btn_ConfirmOrderBtn     xpath		//button[span = 'I confirm my order']
+text_OrderConfirmation	xpath		//div[@class = 'box order-confirmation']
+btn_BackToOrders		xpath		//a[@title = 'Back to orders']

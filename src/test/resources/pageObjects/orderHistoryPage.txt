@@ -1,0 +1,6 @@
+btn_Details						 xpath       //tr[1]//td[contains(@class, 'history_detail')]//span[normalize-space() = 'Details']
+txt_GenericOrderDetailValue      xpath       //a[normalize-space() = '${referenceID}']//ancestor::tr//td[count(//table[@id = 'order-list']//th[text() = '${columnName}']//preceding-sibling::th) + 1]
+txt_ProductName					 xpath		 //td[@class = 'bold']//label[contains(text(), '${productName}')]
+txt_Comment						 xpath		 //tr[@class = 'first_item item']//td[text() = '${comment}']
+txt_DeliveryAddress				 css		 .alternate_item.box
+heading_OrderHistory			 xpath		 //h1[text() = 'Order history']

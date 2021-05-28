@@ -1,0 +1,2 @@
+text_TotalPrice			xpath       //div[contains(@class, 'layer_cart_cart')]//strong[normalize-space() = 'Total']//following-sibling::span
+btn_ProceedToCheckout   xpath       //a[@title = 'Proceed to checkout']

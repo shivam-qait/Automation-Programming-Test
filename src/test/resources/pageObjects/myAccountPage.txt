@@ -1,0 +1,6 @@
+text_TotalPrice			 xpath       //div[contains(@class, 'layer_cart_cart')]//strong[normalize-space() = 'Total']//following-sibling::span
+btn_ProceedToCheckout    xpath       //a[@title = 'Proceed to checkout']
+btn_PersonalInformation  css	     a[title = 'Information']
+input_GenericField		 xpath 		 //label[normalize-space() = '${fieldName}']//parent::div//input
+btn_Save 			     css		 button[name = 'submitIdentity']
+text_AlertSuccess		 css		 p[class = 'alert alert-success']

@@ -1,0 +1,1 @@
+btn_ProceedToCheckout   xpath       //p[@class = 'cart_navigation clearfix']//a[@title = 'Proceed to checkout']

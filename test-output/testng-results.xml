@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Entered value:- demotest28Apr01@yopmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- Test@1234]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on T-shirtsbutton]]>
+    </line>
+    <line>
+      <![CDATA[Hovered on the available product]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to Checkout button on the cart page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to Checkout button on the summary page]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- Test Comment]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to Checkout button on the address page]]>
+    </line>
+    <line>
+      <![CDATA[Checked the terms of service checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Proceed to Checkout button on the shipping page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payment option: Pay by check.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Confirm order button]]>
+    </line>
+    <line>
+      <![CDATA[Reference ID: DCIVLGBPW]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Back to orders button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on details button of latest order created]]>
+    </line>
+    <line>
+      <![CDATA[DELIVERY ADDRESS (MY ADDRESS)
+test demo
+Test Company
+100, S. Main Street, Test Company
+LOS ANGELES, California 90012
+United States
+9876543210]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- demotest28Apr01@yopmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- Test@1234]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on My Personal Information button]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- Testdemoo]]>
+    </line>
+    <line>
+      <![CDATA[Entered value:- Test@1234]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-05-28T19:00:33Z" name="Default suite" finished-at="2021-05-28T19:02:07Z" duration-ms="93926">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2021-05-28T19:00:33Z" name="Default test" finished-at="2021-05-28T19:02:07Z" duration-ms="93926">
+      <class name="com.TestRunner.CucumberTestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:00:33Z" name="setUpClass" finished-at="2021-05-28T19:00:34Z" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="classSetup()[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:00:34Z" name="classSetup" finished-at="2021-05-28T19:00:38Z" duration-ms="3270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:00:38Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-28T19:01:38Z" duration-ms="60165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify order history of placed order"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Feature to test My Store Application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered value:- demotest28Apr01@yopmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Entered value:- Test@1234]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on T-shirtsbutton]]>
+            </line>
+            <line>
+              <![CDATA[Hovered on the available product]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to Checkout button on the cart page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to Checkout button on the summary page]]>
+            </line>
+            <line>
+              <![CDATA[Entered value:- Test Comment]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to Checkout button on the address page]]>
+            </line>
+            <line>
+              <![CDATA[Checked the terms of service checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Proceed to Checkout button on the shipping page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payment option: Pay by check.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Confirm order button]]>
+            </line>
+            <line>
+              <![CDATA[Reference ID: DCIVLGBPW]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Back to orders button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on details button of latest order created]]>
+            </line>
+            <line>
+              <![CDATA[DELIVERY ADDRESS (MY ADDRESS)
+test demo
+Test Company
+100, S. Main Street, Test Company
+LOS ANGELES, California 90012
+United States
+9876543210]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:01:38Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-28T19:02:05Z" duration-ms="26992" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify User is able to update personal information in My Account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Feature to test My Store Application]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Entered value:- demotest28Apr01@yopmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Entered value:- Test@1234]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on My Personal Information button]]>
+            </line>
+            <line>
+              <![CDATA[Entered value:- Testdemoo]]>
+            </line>
+            <line>
+              <![CDATA[Entered value:- Test@1234]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="classTeardown()[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:02:05Z" name="classTeardown" finished-at="2021-05-28T19:02:07Z" duration-ms="1919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.TestRunner.CucumberTestRunner@59e32960]" started-at="2021-05-28T19:02:07Z" name="tearDownClass" finished-at="2021-05-28T19:02:07Z" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.TestRunner.CucumberTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

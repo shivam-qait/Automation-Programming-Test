@@ -1,0 +1,3 @@
+btn_Logout	   css         .logout
+btn_MenuItem   xpath	   (//ul[contains(@class, 'menu-content')]//li//a[@title = '${menuItem}'])[2]
+btn_UserInfo   xpath	   //a[@title = 'View my customer account']//span

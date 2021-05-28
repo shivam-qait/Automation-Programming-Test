@@ -1,0 +1,4 @@
+hover_AvailableProduct		css        div[class = 'product-container']
+btn_AddToCart 				css		   a[title = 'Add to cart']
+text_ProductName			css		   .product-container a[class = 'product-name']
+text_ProductValue			xpath	   //div[@class = 'right-block' ]//span[@itemprop = 'price']
