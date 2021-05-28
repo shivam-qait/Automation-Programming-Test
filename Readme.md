@@ -19,6 +19,7 @@ Please follow the instructions to execute the tests on local machine:
 
 ##### myStore.yaml
 1. Default test values are specified in myStore.yaml in the project  
+
 ##### pageObject Files
 1. Locator files are being specified in pageObject folder
       
