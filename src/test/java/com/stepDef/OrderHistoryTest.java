@@ -1,10 +1,6 @@
 package com.stepDef;
 import static org.testng.Assert.assertEquals;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Date;
-
 import com.Base.YamlReader;
 import com.keywords.*;
 
